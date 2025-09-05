@@ -33,3 +33,5 @@ Interact with databases using **natural language** instead of SQL. This project 
 - Saves time and improves **data accessibility**.  
 
 Unlock your data with a **conversational interface** and get answers without writing SQL.
+
+*Image credit: Langchain docs
