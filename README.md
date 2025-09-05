@@ -1,5 +1,12 @@
 # NL2SQL with LangChain
 
+
+<p align="center">
+  <img src="flow.png" alt="NL2SQL Workflow" width="600"/>
+</p>
+
+
+
 Interact with databases using **natural language** instead of SQL. This project demonstrates how to build an NL2SQL system using **LangChain**, allowing users to ask questions in plain English and get accurate answers from their database.
 
 ## Key Features
