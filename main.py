@@ -4,14 +4,14 @@ from langchain_utils import invoke_chain
 from dotenv import load_dotenv
 import os
 import pandas as pd
-
+load_dotenv()
 st.title("Langchain NL2SQL Chatbot ~Ashish")
 
 
 
 
 # Load environment variables from .env
-load_dotenv()
+
 api_key = os.getenv("OPENAI_API_KEY")
 
 # Set OpenAI API key from Streamlit secrets
